@@ -67,7 +67,5 @@ Al finalizar el proyecto, se espera obtener:
 
 ---
 
-## 🚀 Cómo empezar
-1. Clonar este repositorio:  
-   ```bash
-   git clone https://github.com/usuario/proyecto-vino.git
+## Entrea de proyecto
+- La entrega se ralizará en blackboard
